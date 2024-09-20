@@ -9,7 +9,8 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.navigation.Navigation
 
-class DetailFragment : Fragment() {
+
+class DetailFragment<TextView> : Fragment() {
     private val coffeeTitle: TextView?
         get() = view?.findViewById(R.id.coffee_title)
     private val coffeeDesc: TextView?
@@ -41,7 +42,6 @@ class DetailFragment : Fragment() {
             }
             R.id.latte -> {
                 coffeeTitle?.text = getString(R.string.latte_title)
-                coffeeDesc?.text = getString(R.string.latte_desc)
             }
         }
     }
