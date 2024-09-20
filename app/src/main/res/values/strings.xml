@@ -18,13 +18,13 @@ espresso with steamed milk and only a little milk foam poured over it. Serve in 
 latte glass or a coffee cup. Flavored syrup can be added.</string>
 
     <!--        Assignment-->
-<!--    <string name="cappuccino_title">CAPPUCCINO</string>-->
-<!--    <string name="cappuccino_desc">A classic Italian coffee drink that is traditionally equal parts Espresso, steamed milk, and others</string>-->
-<!--    <string name="mocha_title">MOCHA</string>-->
-<!--    <string name="mocha_desc">A chocolate-flavored variant of the latte, consisting of espresso, milk and chocolate</string>-->
-<!--    <string name="espresso_title">ESPRESSO</string>-->
-<!--    <string name="espresso_desc">A concentrated coffee beverage brewed by forcing hot water under pressure through ground coffee beans</string>-->
-<!--    <string name="back_button">Back</string>-->
+    <!--    <string name="cappuccino_title">CAPPUCCINO</string>-->
+    <!--    <string name="cappuccino_desc">A classic Italian coffee drink that is traditionally equal parts Espresso, steamed milk, and others</string>-->
+    <!--    <string name="mocha_title">MOCHA</string>-->
+    <!--    <string name="mocha_desc">A chocolate-flavored variant of the latte, consisting of espresso, milk and chocolate</string>-->
+    <!--    <string name="espresso_title">ESPRESSO</string>-->
+    <!--    <string name="espresso_desc">A concentrated coffee beverage brewed by forcing hot water under pressure through ground coffee beans</string>-->
+    <!--    <string name="back_button">Back</string>-->
 
     <string name="coffee_list">Coffee List</string>
     <string name="coffee_favorites">My Favorite Coffee</string>
@@ -37,4 +37,6 @@ latte glass or a coffee cup. Flavored syrup can be added.</string>
     <string name="starbucks_title">STARBUCKS</string>
     <string name="janjijiwa_title">JANJI JIWA</string>
     <string name="kopikenangan_title">KOPI KENANGAN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
